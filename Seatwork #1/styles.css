@@ -1,0 +1,13 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  table-layout: fixed;
+}
+
+body {
+ background-attachment: url(https://i.pinimg.com/474x/5b/4e/3d/5b4e3d30dc64cb2876c1e3351aee7536.jpg);
+}
